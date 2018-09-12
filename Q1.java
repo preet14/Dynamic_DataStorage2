@@ -7,7 +7,7 @@ class Q1
    
     FileInputStream fin = new FileInputStream(f);
     
-    File f1 = new File("C:/Users/user/Desktop/Assignment/File_Handling-2/New.txt");
+    File f1 = new File("C:/Users/user/Desktop/Assignment/File_Handling-2/xyz.txt");
     
     FileOutputStream fout = new FileOutputStream(f1);
  
